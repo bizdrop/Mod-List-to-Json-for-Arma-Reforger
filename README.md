@@ -7,7 +7,7 @@ Convert mod lists from [BattleMetrics Reforger Servers](https://www.battlemetric
 ## Online Python Compiler
 
 Run the formatter instantly using this online compiler:  
-🔗 [https://www.programiz.com/python-programming/online-compiler/](https://www.programiz.com/python-programming/online-compiler/)
+[https://www.programiz.com/python-programming/online-compiler/](https://www.programiz.com/python-programming/online-compiler/)
 
 ---
 
