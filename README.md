@@ -39,3 +39,26 @@ RHS - Content Pack 01	0.12.4414	1337C0DE5DABBEEF
 RHS - Content Pack 02	0.12.4414	BADC0DEDABBEDA5E
 RHS - Status Quo	    0.12.4414	595F2BF2F44836FB
 """
+```
+
+## Example Output
+
+```json
+[
+	{
+		"modId": "1337C0DE5DABBEEF",
+		"name": "RHS - Content Pack 01",
+		"version": "0.12.4414"
+	},
+	{
+		"modId": "BADC0DEDABBEDA5E",
+		"name": "RHS - Content Pack 02",
+		"version": "0.12.4414"
+	},
+	{
+		"modId": "595F2BF2F44836FB",
+		"name": "RHS - Status Quo",
+		"version": "0.12.4414"
+	}
+]
+```
