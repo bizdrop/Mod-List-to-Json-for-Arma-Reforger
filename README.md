@@ -34,11 +34,11 @@ Execute the code, and it will generate a JSON-formatted list of mods.
 ## Example Input
 
 ```python
-input_input_data = """
+input_data = """
 RHS - Content Pack 01	0.12.4414	1337C0DE5DABBEEF
 RHS - Content Pack 02	0.12.4414	BADC0DEDABBEDA5E
-RHS - Status Quo	    0.12.4414	595F2BF2F44836FB
-"""
+RHS - Status Quo	0.12.4414	595F2BF2F44836FB
+"""  
 ```
 
 ## Example Output
