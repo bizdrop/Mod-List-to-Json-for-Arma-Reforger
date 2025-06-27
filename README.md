@@ -20,6 +20,7 @@ Navigate to [https://www.battlemetrics.com/servers/reforger/](https://www.battle
 - Find your desired server.
 - Click and drag to select all the mods (like the image below).
 - Copy them to your clipboard.
+
 ![image](https://github.com/user-attachments/assets/9561ad47-c367-4353-beaf-f23cc347a05e)
 
 ### 3. Paste into the Code  
